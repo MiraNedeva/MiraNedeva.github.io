@@ -1,1 +1,1 @@
-# MiraNedeva.github.io
+Software Technologies - HTML5 & CSS Blog Design 
